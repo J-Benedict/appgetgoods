@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # getgoods
 
 A new Flutter project.
@@ -15,7 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-# getgood
- App project
->>>>>>> eaf8213a900256dc4b50b9f7c3b39d38c2f767e0
