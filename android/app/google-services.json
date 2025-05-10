@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491930036288",
+    "project_id": "getgoods-f1d9c",
+    "storage_bucket": "getgoods-f1d9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491930036288:android:fec59575d2b70635e6d7a5",
+        "android_client_info": {
+          "package_name": "com.example.getgoods"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3obbTdHEFd5ngMWYcLgy5JMX7gdRhTwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
