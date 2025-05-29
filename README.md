@@ -1,16 +1,12 @@
 # getgoods
 
-A new Flutter project.
+A Flutter-Based E-commerce App.
 
-## Getting Started
+// Project Documentation
+    https://docs.google.com/document/d/1OK88thpOcAp3cZ_tTqdH4EsZ7Z9S4OugJtIngWqUAO4/edit?usp=sharing
 
-This project is a starting point for a Flutter application.
+// PPT Link
+    https://docs.google.com/presentation/d/1qnagz6_WX1PFOYHWq-k7bwlGxGkt4v1UgbPVlh5JifE/edit?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+// Survey Spreadsheet
+    https://docs.google.com/spreadsheets/d/18qtsmeFMBtvRFg1f3S8rjRYFHqmEITzOhj_erW9_Uzk/edit?usp=sharing
